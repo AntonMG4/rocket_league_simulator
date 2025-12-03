@@ -1,0 +1,18 @@
+# Archivos temporales de Visual Studio
+.vs/
+*.user
+*.suo
+*.aps
+*.db
+
+# Carpetas de compilacion (archivos basura o ejecutables temporales)
+x64/
+Debug/
+Release/
+
+# Archivos de build intermedios
+ipch/
+*.obj
+*.tlog
+*.pdb
+*.idb
