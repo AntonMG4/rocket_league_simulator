@@ -78,4 +78,4 @@ ProyectoRV/
 ├── CGObject.cpp      # Dynamic objects (Car) logic
 ├── CGFigure.cpp      # Static geometry (Walls, Goal) logic
 ├── main.cpp          # Entry point
-└── ... (.h y .cpp from motor)
+└── ...               # .h y .cpp for engine
