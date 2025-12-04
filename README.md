@@ -53,10 +53,7 @@ The movement logic includes acceleration and friction variables (`moveStep`) to 
     * Visual Studio 2019/2022 with "Desktop development with C++" workload.
     * A graphics card supporting OpenGL 3.3 or higher.
 
-2.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/Rocket-League-Training-CPP.git](https://github.com/your-username/Rocket-League-Training-CPP.git)
-    ```
+2.  **Clone the repository**
 
 3.  **Setup:**
     * Open `ProyectoRV.sln` in Visual Studio.
