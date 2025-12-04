@@ -10,7 +10,6 @@ This project is a 3D simulation inspired by the video game **Rocket League**, bu
 Unlike projects built on commercial engines (Unity/Unreal), this repository demonstrates the implementation of low-level graphics architecture, including shader management, vector mathematics for camera control, and custom physics for collision handling.
 
 ![Gameplay Screenshot](docs/screenshot.png)
-*Third-person view of the car and ball featuring custom lighting and shadow mapping.*
 
 ## 📋 Project Overview
 
