@@ -68,6 +68,7 @@ The movement logic includes acceleration and friction variables (`moveStep`) to 
 The architecture isolates rendering logic from game physics.
 
 ```text
+docs/memoria.pdf      # Information about the proyect
 ProyectoRV/
 ├── shaders/          # GLSL Source code (.vert, .frag)
 ├── textures/         # Assets for ground, skybox, and models
